@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        nodejs "node" // Asegúrate de que este nombre coincida con tu configuración global de Jenkins
+        nodejs "NodeJS" // Asegúrate de que este nombre coincida con tu configuración global de Jenkins
     }
 
     stages {
